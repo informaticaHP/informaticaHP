@@ -3,6 +3,7 @@ Het richt zich op de low-level stuff: het creëren van elementen, het manipulere
 
 jQueryUI is een set van componenten van de gebruikersinterface en functies gebouwd op de top van jQuery (dwz het moet jQuery om te werken): knoppen, dialoogvensters, sliders, tabs, meer geavanceerde animaties, drag / drop functionaliteit.
 
+
 jQuery en jQueryUI zijn beide ontworpen om te worden 'toegevoegd' aan uw site (desktop of mobiel) - als u een bepaalde functie toe te voegen, zou jQuery of jQueryUI kunnen helpen.
 
 jQuery Mobile, echter, is een volledige kader. 
