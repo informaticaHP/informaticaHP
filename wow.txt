@@ -1,2 +1,11 @@
 jfoijfeoijfiojfoiij
+<<<<<<< HEAD
 hallo
+=======
+
+
+
+
+
+?????
+>>>>>>> 300730791c76e5ebc7bf3906ac22fe4b7594d63d
