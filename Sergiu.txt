@@ -1,0 +1,11 @@
+jQuery is puur ontworpen om te vereenvoudigen en te standaardiseren scripting in verschillende browsers. 
+Het richt zich op de low-level stuff: het creëren van elementen, het manipuleren van de DOM, het beheren van attributen, het uitvoeren van HTTP-verzoeken, enz.
+
+jQueryUI is een set van componenten van de gebruikersinterface en functies gebouwd op de top van jQuery (dwz het moet jQuery om te werken): knoppen, dialoogvensters, sliders, tabs, meer geavanceerde animaties, drag / drop functionaliteit.
+
+jQuery en jQueryUI zijn beide ontworpen om te worden 'toegevoegd' aan uw site (desktop of mobiel) - als u een bepaalde functie toe te voegen, zou jQuery of jQueryUI kunnen helpen.
+
+jQuery Mobile, echter, is een volledige kader. 
+Het is bedoeld om uw startpunt voor een mobiele site. 
+Het vereist jQuery en maakt gebruik van de kenmerken van zowel jQuery en jQueryUI zowel UI componenten en API-functies bieden voor het bouwen van mobiele-vriendelijke sites. 
+U kunt nog steeds gebruik maken van zo veel of zo weinig van als je wilt, maar jQuery Mobile kan de hele viewport in een mobiel-vriendelijke manier te controleren als je het laat.
